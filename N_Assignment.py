@@ -65,7 +65,7 @@ for index, row in df.iterrows():
 
     # 5.3) frequency and dosage
     frequency_number = 1
-    dosage_per_day = 1
+    dosage_number = 1
     frequency_text = ''
     for UnmappedAttribute in UnmappedAttributes:
         type = UnmappedAttribute['Attribute']['Type']
@@ -78,10 +78,10 @@ for index, row in df.iterrows():
         # 5.4.2) dosage_per_Day
         if type == 'DOSAGE':
             dosage_text = UnmappedAttribute['Attribute']['Text'].lower()
-            dosage_per_day = contains_the_number(dosage_text)
+            dosage_number = contains_the_number(dosage_text)
 
     # 5.5) day_left
-    max_days = quantity / (frequency_number * dosage_per_day)
+    max_days = quantity / (frequency_number * dosage_number)
     day_left = max_days - days_from_prescription_date
 
     # 5.6) update should_refill, days_left and frequency columns

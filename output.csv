@@ -1,0 +1,123 @@
+,NID,drug_name,prescription_date,quantity,ATC,frequency,should_refill,days_left
+0,0241cc7d-f262-486e-8ea4-e204e9d3991b,"desvenlafaxine succinate ER 50 mg tablet,extended release 24 hr",2020-08-09,30,N06AX,every day,False,19.0
+1,0241cc7d-f262-486e-8ea4-e204e9d3991b,"dextroamphetamine-amphetamine ER 20 mg 24hr capsule,extend release",2020-07-22,30,N06BA,daily,False,1.0
+2,025ae502-51c6-4035-8151-9a67801fb311,amlodipine 10 mg tablet,2020-01-03,90,C08CA,every 4 hours,True,-222.5
+3,025ae502-51c6-4035-8151-9a67801fb311,lisinopril 20 mg tablet,2020-01-03,90,C09AA,bid,True,-185.0
+4,025ae502-51c6-4035-8151-9a67801fb311,acyclovir 800 mg tablet,2020-03-21,180,J05AB,every night at bedtime,True,-62.0
+6,025ae502-51c6-4035-8151-9a67801fb311,clonazepam 2 mg tablet,2020-06-16,60,N03AE,3 times a day,True,-35.0
+7,025ae502-51c6-4035-8151-9a67801fb311,zolpidem 10 mg tablet,2020-07-03,90,N05CF,daily,False,42.0
+8,02e2d35e-69ab-4906-98bf-fc6c1a141936,"omeprazole 40 mg capsule,delayed release",2019-11-11,30,A02BC,bid,True,-268.0
+11,039a8240-24b1-4f68-8f06-d13b7fa271ea,rizatriptan 10 mg tablet,2020-06-02,9,N02CC,every 4 hours,True,-78.25
+12,039a8240-24b1-4f68-8f06-d13b7fa271ea,hydroxyzine HCl 50 mg tablet,2020-05-27,60,N05BB,bid,True,-55.0
+13,039a8240-24b1-4f68-8f06-d13b7fa271ea,"Adderall XR 30 mg capsule,extended release",2020-07-01,30,N06BA,every night at bedtime,True,-35.0
+16,03cde53c-ba87-4162-b605-5e6f3c8ac8cc,alprazolam 0.25 mg tablet,2020-05-01,30,N05BA,daily,True,-81.0
+17,03cde53c-ba87-4162-b605-5e6f3c8ac8cc,dextroamphetamine-amphetamine 10 mg tablet,2020-07-29,60,N06BA,bid,False,8.0
+18,043b819e-1b99-43a1-8261-6e40468e190d,colchicine 0.6 mg tablet,2019-11-15,30,M04AC,every day,True,-249.0
+19,04a22a3d-c7c9-48cf-9c01-2c4fb3548aca,methimazole 5 mg tablet,2020-02-11,30,H03BB,daily,True,-161.0
+20,04a22a3d-c7c9-48cf-9c01-2c4fb3548aca,Augmentin 500 mg-125 mg tablet,2020-06-17,10,J01CA,every 4 hours,True,-63.166666666666664
+21,04f2157f-a444-4ff9-84ce-0bb52c0085ac,ProAir HFA 90 mcg/actuation aerosol inhaler,2019-10-04,3,R03CC,bid,True,-319.5
+22,05846df1-a044-43f1-a468-cb9c4342206e,valacyclovir 1 gram tablet,2020-08-01,31,J05AB,every night at bedtime,True,-3.5
+24,058bdc4b-9e1f-4567-841e-187295e88c50,clotrimazole 10 mg troche,2020-06-29,70,D01AC,3 times a day,True,-17.0
+25,058bdc4b-9e1f-4567-841e-187295e88c50,fexofenadine 180 mg tablet,2020-04-08,30,R06AX,daily,True,-104.0
+27,0597a09e-d0ba-4564-973d-be3d9555dbf2,"bupropion HCl XL 300 mg 24 hr tablet, extended release",2020-06-16,30,N06AX,every day,True,-35.0
+28,0599b6c3-7a8f-482e-ab7e-3c1d89b192a9,lovastatin 40 mg tablet,2020-07-25,90,C10AA,daily,False,64.0
+29,0599b6c3-7a8f-482e-ab7e-3c1d89b192a9,estradiol 0.5 mg tablet,2020-04-27,90,G03CA,every 4 hours,True,-107.5
+34,06c4ab4f-1ea8-403f-ad7b-38fa8b1d6c35,"ergocalciferol (vitamin D2) 1,250 mcg (50,000 unit) capsule",2020-06-14,12,A11CC,every day,True,-55.0
+35,06c4ab4f-1ea8-403f-ad7b-38fa8b1d6c35,ProAir HFA 90 mcg/actuation aerosol inhaler,2019-11-07,1,R03CC,daily,True,-286.0
+36,06c7f5fc-593d-44e0-aed1-f00b4f1089e1,"metformin ER 500 mg tablet,extended release 24 hr",2020-01-24,180,A10BA,every 4 hours,True,-194.0
+37,06c7f5fc-593d-44e0-aed1-f00b4f1089e1,losartan 100 mg-hydrochlorothiazide 25 mg tablet,2020-01-24,90,C03AA,bid,True,-164.0
+38,06c7f5fc-593d-44e0-aed1-f00b4f1089e1,atorvastatin 80 mg tablet,2020-01-24,90,C10AA,every night at bedtime,True,-164.0
+39,07005701-cc8d-4cdf-bdb8-a7e170257255,hydrochlorothiazide 12.5 mg capsule,2020-05-11,90,C03AA,twice daily,True,-56.0
+40,07005701-cc8d-4cdf-bdb8-a7e170257255,lisinopril 40 mg tablet,2020-05-11,90,C09AA,3 times a day,True,-56.0
+41,07005701-cc8d-4cdf-bdb8-a7e170257255,Euthyrox 75 mcg tablet,2020-07-06,30,H03AA,daily,True,-15.0
+42,07383e84-e1ff-4076-9c83-342c31152548,dexamethasone 4 mg tablet,2020-02-10,10,H02AB,bid,True,-187.0
+43,0742da5d-b454-4c5c-b261-2769e8fd0eb7,simvastatin 40 mg tablet,2020-05-11,90,C10AA,every day,True,-11.0
+44,077ab3f4-f219-4152-88b0-82f191ba9469,Vyvanse 10 mg capsule,2020-06-08,60,N06BA,daily,True,-13.0
+45,07f5c37e-b648-47bf-b8e3-8a2a0623da54,Lessina 0.1 mg-20 mcg tablet,2020-01-06,84,G03AC,every 4 hours,True,-220.0
+46,07f5c37e-b648-47bf-b8e3-8a2a0623da54,zolpidem 10 mg tablet,2019-12-04,30,N05CF,bid,True,-245.0
+47,07f5c37e-b648-47bf-b8e3-8a2a0623da54,"desvenlafaxine succinate ER 50 mg tablet,extended release 24 hr",2020-07-16,90,N06AX,every night at bedtime,False,10.0
+48,07f5c37e-b648-47bf-b8e3-8a2a0623da54,dextroamphetamine-amphetamine 10 mg tablet,2019-10-14,30,N06BA,twice daily,True,-296.0
+51,080ad0a0-beb8-411a-943f-f0483aa79143,sertraline 100 mg tablet,2020-07-27,90,N06AB,bid,False,21.0
+52,080ad0a0-beb8-411a-943f-f0483aa79143,dextroamphetamine-amphetamine 5 mg tablet,2020-07-03,60,N06BA,every day,False,12.0
+54,096f2288-eb32-4d70-b9b3-ae92b631255e,levothyroxine 75 mcg tablet,2019-11-06,90,H03AA,every 4 hours,True,-280.5
+56,0b1427e8-f343-4373-aa80-d4b0e1f7a789,ranitake bid through mouthine 150 mg tablet,2020-05-13,450,A02BA,every night at bedtime,False,126.0
+57,0b636145-6f78-45fd-affd-7fc70664c925,diphenoxylate-atropine 2.5 mg-0.025 mg tablet,2020-08-01,120,A07DA,twice daily,False,41.0
+58,0b636145-6f78-45fd-affd-7fc70664c925,oxycodone-acetaminophen 5 mg-325 mg tablet,2020-06-15,30,N02AA,3 times a day,True,-51.0
+60,0b882578-ecb6-432c-80b2-8c5189e03e59,lisinopril 20 mg-hydrochlorothiazide 12.5 mg tablet,2020-07-10,180,C03AA,bid,False,49.0
+62,0c2fc960-ab72-4b33-b524-0851cc5c02b4,cyclobenzaprine 10 mg tablet,2019-11-20,180,M03BX,daily,True,-94.0
+63,0c2fc960-ab72-4b33-b524-0851cc5c02b4,oxycodone-acetaminophen 5 mg-325 mg tablet,2019-11-21,30,N02AA,every 4 hours,True,-270.5
+64,0c8c04df-0d03-4bcd-a73b-f6d09390bb60,valacyclovir 1 gram tablet,2019-11-14,12,J05AB,bid,True,-274.0
+65,0cb5580f-7ace-40d0-8a96-53afb370dd6b,Estrace 0.01% (0.1 mg/gram) vaginal cream,2020-07-05,42,G03CA,every night at bedtime,True,-25.0
+66,0cb5580f-7ace-40d0-8a96-53afb370dd6b,cephalexin 500 mg capsule,2020-02-22,30,J01DB,twice daily,True,-165.0
+67,0cb5580f-7ace-40d0-8a96-53afb370dd6b,levofloxacin 500 mg tablet,2020-02-24,10,J01MA,3 times a day,True,-173.0
+69,0cce6ff1-806b-49be-8223-066c136d01f0,promethazine 25 mg tablet,2020-04-22,60,R06AD,daily,True,-60.0
+70,0ce2c9d1-c478-4dab-a0db-0d7132f08d22,Synthroid 100 mcg tablet,2020-05-18,90,H03AA,every 4 hours,True,-86.5
+71,0d18c88d-9380-44ca-897b-3feb0eb6b4f4,albuterol sulfate HFA 90 mcg/actuation aerosol inhaler,2020-02-23,1,R03CC,bid,True,-178.5
+72,0e431720-3fd7-4f44-8a3b-fda5171e5d47,atorvastatin 20 mg tablet,2020-06-18,90,C10AA,every night at bedtime,True,-18.0
+73,0e431720-3fd7-4f44-8a3b-fda5171e5d47,valacyclovir 1 gram tablet,2020-03-18,21,J05AB,twice daily,True,-144.5
+74,0e431720-3fd7-4f44-8a3b-fda5171e5d47,naproxen 500 mg tablet,2020-06-18,180,M01AE,3 times a day,False,27.0
+76,0f349f2f-73b9-401a-b979-9b70b6a270ff,"pantoprazole 20 mg tablet,delayed release",2020-06-08,90,A02BC,bid,True,-28.0
+79,0f5a6e5d-9a93-4972-ae24-ee9fa4e7445b,lisinopril 20 mg tablet,2020-07-21,90,C09AA,every 4 hours,True,-22.5
+80,0fd011d6-6f94-462b-ae28-31b1fa874a90,dextroamphetamine-amphetamine 30 mg tablet,2020-01-27,60,N06BA,bid,True,-176.0
+81,0feef66d-f046-40c8-8dab-1b9fadba6320,liothyronine 5 mcg tablet,2020-03-15,60,H03AA,every night at bedtime,True,-128.0
+82,0feef66d-f046-40c8-8dab-1b9fadba6320,Advair Diskus 250 mcg-50 mcg/dose powder for inhalation,2019-10-02,60,R03AC,twice daily,True,-293.0
+84,0ff873a7-6f2f-4e3d-a835-02f5e0482d1b,cefuroxime axetil 500 mg tablet,2020-01-17,20,J01DC,daily,True,-196.0
+85,0ff873a7-6f2f-4e3d-a835-02f5e0482d1b,escitalopram 10 mg tablet,2020-05-18,90,N06AB,bid,True,-49.0
+86,0ff873a7-6f2f-4e3d-a835-02f5e0482d1b,albuterol sulfate HFA 90 mcg/actuation aerosol inhaler,2020-03-14,1,R03CC,every day,True,-158.0
+87,0ff873a7-6f2f-4e3d-a835-02f5e0482d1b,montelukast 10 mg tablet,2020-01-16,90,R03DC,daily,True,-127.0
+88,102cf9e0-75e8-4ce7-b117-ee1d0b0103bb,atorvastatin 40 mg tablet,2019-10-21,90,C10AA,every 4 hours,True,-296.5
+89,102cf9e0-75e8-4ce7-b117-ee1d0b0103bb,citalopram 20 mg tablet,2020-07-29,30,N06AB,bid,True,-7.0
+90,10b2c643-4d2a-4cbb-a21b-8c9e256e6064,"omeprazole 40 mg capsule,delayed release",2020-05-27,90,A02BC,every night at bedtime,True,-40.0
+91,10b2c643-4d2a-4cbb-a21b-8c9e256e6064,simvastatin 20 mg tablet,2020-05-27,90,C10AA,twice daily,True,-40.0
+92,10b2c643-4d2a-4cbb-a21b-8c9e256e6064,valacyclovir 1 gram tablet,2020-05-27,60,J05AB,3 times a day,True,-55.0
+93,10b2c643-4d2a-4cbb-a21b-8c9e256e6064,"venlafaxine ER 150 mg capsule,extended release 24 hr",2020-05-27,90,N06AX,daily,False,5.0
+94,10b2c643-4d2a-4cbb-a21b-8c9e256e6064,albuterol sulfate HFA 90 mcg/actuation aerosol inhaler,2020-05-27,3,R03CC,bid,True,-83.5
+95,10c21878-e3d6-4822-bb35-1284195f5691,chlorthalidone 25 mg tablet,2020-02-13,90,C03BA,every day,True,-99.0
+96,10c21878-e3d6-4822-bb35-1284195f5691,losartan 100 mg tablet,2020-07-31,90,C09CA,daily,False,70.0
+100,112ed9ca-e06e-49c6-9295-b6575ac7a275,"metformin ER 500 mg tablet,extended release 24 hr",2019-08-22,60,A10BA,twice daily,True,-334.0
+101,112ed9ca-e06e-49c6-9295-b6575ac7a275,losartan 100 mg tablet,2019-08-22,30,C09CA,3 times a day,True,-349.0
+102,112ed9ca-e06e-49c6-9295-b6575ac7a275,escitalopram 20 mg tablet,2020-07-16,30,N06AB,every day,True,-5.0
+103,117ce050-3b48-4263-97ce-3c1257684adc,atorvastatin 20 mg tablet,2020-05-18,90,C10AA,daily,True,-4.0
+104,123ad2d4-4aef-4ecc-916e-eb47525bfb2c,"diltiazem CD 120 mg capsule,extended release 24 hr",2020-07-30,90,C08DB,every 4 hours,True,-13.5
+105,123ad2d4-4aef-4ecc-916e-eb47525bfb2c,diazepam 5 mg tablet,2020-07-30,15,N05BA,bid,True,-13.5
+107,1263f348-c785-456e-9209-c36a223ad91c,"omeprazole 40 mg capsule,delayed release",2020-01-23,90,A02BC,twice daily,True,-165.0
+108,1263f348-c785-456e-9209-c36a223ad91c,lisinopril 10 mg tablet,2020-04-13,30,C09AA,3 times a day,True,-114.0
+109,127f7220-533f-45c2-b047-9accd6d2725d,lamotrigine 25 mg tablet,2020-05-29,60,N03AX,daily,True,-23.0
+110,127f7220-533f-45c2-b047-9accd6d2725d,"duloxetine 20 mg capsule,delayed release",2020-06-06,60,N06AX,bid,True,-45.0
+111,12f9f880-dfc3-4c61-9361-eaea576aa36a,rosuvastatin 20 mg tablet,2020-06-03,90,C10AA,every day,False,12.0
+112,12f9f880-dfc3-4c61-9361-eaea576aa36a,zolpidem 10 mg tablet,2020-07-06,30,N05CF,daily,True,-15.0
+113,12f9f880-dfc3-4c61-9361-eaea576aa36a,Vyvanse 50 mg capsule,2020-06-25,30,N06BA,every 4 hours,True,-53.5
+114,138665ad-ba1f-4ef2-af43-17ebfb57bfac,lisinopril 10 mg tablet,2019-09-27,30,C09AA,bid,True,-313.0
+115,138665ad-ba1f-4ef2-af43-17ebfb57bfac,ibuprofen 800 mg tablet,2020-08-03,90,M01AE,every night at bedtime,False,28.0
+116,138665ad-ba1f-4ef2-af43-17ebfb57bfac,tramadol 50 mg tablet,2020-04-03,30,N02AX,twice daily,True,-124.0
+117,138665ad-ba1f-4ef2-af43-17ebfb57bfac,"duloxetine 60 mg capsule,delayed release",2019-09-25,90,N06AX,3 times a day,True,-285.0
+118,138665ad-ba1f-4ef2-af43-17ebfb57bfac,buprenorphine HCl 2 mg sublingual tablet,2020-08-03,60,N07BC,daily,False,43.0
+119,138665ad-ba1f-4ef2-af43-17ebfb57bfac,ProAir HFA 90 mcg/actuation aerosol inhaler,2020-01-16,9,R03CC,bid,True,-212.5
+120,138665ad-ba1f-4ef2-af43-17ebfb57bfac,montelukast 10 mg tablet,2020-04-24,90,R03DC,every day,True,-28.0
+121,13f91dfe-297b-4f9a-bc71-e9edbbe641b7,famotake bid through mouthine 20 mg tablet,2020-05-13,180,A02BA,daily,False,81.0
+122,13f91dfe-297b-4f9a-bc71-e9edbbe641b7,lisinopril 10 mg tablet,2020-08-08,90,C09AA,every 4 hours,True,-4.5
+123,1420d561-4501-4174-a0c1-28e71eab3305,gabapentin 300 mg capsule,2020-01-16,90,N03AX,bid,True,-172.0
+125,1488102d-582b-4d48-90b0-5baa92e73000,albuterol sulfate HFA 90 mcg/actuation aerosol inhaler,2020-07-23,1,R03CC,twice daily,True,-27.5
+126,1488102d-582b-4d48-90b0-5baa92e73000,benzonatate 200 mg capsule,2020-06-29,30,R05DB,3 times a day,True,-37.0
+127,16388ae7-8c0d-4fb1-8e82-75df6db8af83,levothyroxine 200 mcg tablet,2020-04-07,90,H03AA,daily,True,-45.0
+130,1688cc47-2423-4d28-ac8f-738b3b3f63ed,"bupropion HCl XL 150 mg 24 hr tablet, extended release",2020-07-22,30,N06AX,daily,False,1.0
+131,1688cc47-2423-4d28-ac8f-738b3b3f63ed,montelukast 10 mg tablet,2020-07-22,30,R03DC,every 4 hours,True,-26.5
+132,17993db9-7e7d-4f31-bb0c-9fb60131d57d,alprazolam 0.5 mg tablet,2019-11-02,45,N05BA,bid,True,-269.5
+133,17993db9-7e7d-4f31-bb0c-9fb60131d57d,escitalopram 10 mg tablet,2019-11-02,30,N06AB,every night at bedtime,True,-277.0
+134,17ddd2ca-1d6c-4398-89cc-720534103ac3,lisinopril 20 mg tablet,2020-03-13,90,C09AA,twice daily,True,-115.0
+135,17ddd2ca-1d6c-4398-89cc-720534103ac3,prednisone 20 mg tablet,2020-04-24,18,H02AB,3 times a day,True,-109.0
+136,17ddd2ca-1d6c-4398-89cc-720534103ac3,zolpidem 10 mg tablet,2020-04-24,30,N05CF,every day,True,-88.0
+137,17ddd2ca-1d6c-4398-89cc-720534103ac3,albuterol sulfate HFA 90 mcg/actuation aerosol inhaler,2020-03-13,3,R03CC,daily,True,-157.0
+141,18c802fb-22b3-40d1-bb54-226fc5d3327a,glipizide 5 mg tablet,2020-08-06,60,A10BB,twice daily,False,16.0
+144,18c802fb-22b3-40d1-bb54-226fc5d3327a,atorvastatin 20 mg tablet,2020-08-06,30,C10AA,bid,False,1.0
+145,18c802fb-22b3-40d1-bb54-226fc5d3327a,Macrotake bid through mouth 100 mg capsule,2020-04-08,10,J01XE,every day,True,-124.0
+146,1915c94b-6549-4b5c-a4c1-80e02fe41fe4,"omeprazole 40 mg capsule,delayed release",2020-02-28,180,A02BC,daily,False,6.0
+148,1915c94b-6549-4b5c-a4c1-80e02fe41fe4,cyclobenzaprine 10 mg tablet,2020-05-22,180,M03BX,bid,True,0.0
+150,1915c94b-6549-4b5c-a4c1-80e02fe41fe4,butalbital-acetaminophen-caffeine 50 mg-325 mg-40 mg capsule,2020-06-29,20,N02BE,twice daily,True,-42.0
+151,1915c94b-6549-4b5c-a4c1-80e02fe41fe4,zolpidem 5 mg tablet,2020-02-28,90,N05CF,3 times a day,True,-129.0
+153,1915c94b-6549-4b5c-a4c1-80e02fe41fe4,cetirizine 10 mg tablet,2020-04-26,90,R06AE,bid,True,-71.0
+154,1a4ae3c4-230d-49dc-afc0-54b2a5c69d6f,valacyclovir 1 gram tablet,2019-11-12,12,J05AB,every day,True,-270.0
+155,1a5e3395-2242-4e70-8d13-ec965c883eb1,pravastatin 20 mg tablet,2020-07-09,360,C10AA,daily,False,318.0
+156,1a8450b5-dd29-4baa-a528-ebeeb58b1291,dextroamphetamine-amphetamine 20 mg tablet,2020-04-29,60,N06BA,every 4 hours,True,-108.0
+157,1b45b04d-368a-4bc7-83d5-c0a31f62aff5,Xanax 0.5 mg tablet,2020-05-21,20,N05BA,bid,True,-81.0
+158,1b45b04d-368a-4bc7-83d5-c0a31f62aff5,escitalopram 20 mg tablet,2020-05-21,90,N06AB,every night at bedtime,True,-46.0

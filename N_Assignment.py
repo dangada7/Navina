@@ -31,12 +31,8 @@ def type_of_frequency(str):
         return 2
     elif str.find("hour") > -1:
         return 24 / contains_the_number(str)
-    elif str.find('month') - 1:
-        return contains_the_number(str) / 30
-
     else:
-        return 1
-
+        return contains_the_number(str)
 
 # 1) read scv
 df = pd.read_csv('medications_interview_input.CSV')
@@ -51,7 +47,7 @@ new_date = now - days
 df = df[(df['prescription_date'] > new_date)]
 
 # 4) drop duplicates ATC
-df.drop_duplicates(subset=['ATC', 'NID'])
+df = df.drop_duplicates(subset=['ATC', 'NID'])
 
 # 5) aws comprehend medical
 client = boto3.client(service_name='comprehendmedical', region_name='us-east-1')
@@ -99,7 +95,6 @@ for index, row in df.iterrows():
         df.loc[index, 'frequency'] = frequency_text
         df.loc[index, 'should_refill'] = day_left <= 0
         df.loc[index, 'days_left'] = day_left
-
 
 # 6) remove unnecessary columns
 # del df['prescription_date']
